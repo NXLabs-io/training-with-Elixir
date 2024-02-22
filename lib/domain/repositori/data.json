@@ -1,0 +1,27 @@
+{
+  "name": {
+    "first": "John",
+    "last": "Doe"
+  },
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "12345"
+  }
+}
+
+datos = """
+{
+  "firstName": "Sonoo",
+  "lastName": "Jaiswal",
+  "age": 27,
+  "address" : {
+    "streetAddress": "Plot-6, Mohan Nagar",
+    "city": "Ghaziabad",
+    "state": "UP",
+    "postalCode": "201007"
+  }
+}
+"""
